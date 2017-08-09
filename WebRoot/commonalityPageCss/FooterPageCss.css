@@ -1,0 +1,128 @@
+#footer{
+    width: 100%;
+    height:200px;
+    float: left;
+
+}
+#footer_top_left{
+    width: 50%;
+    height: 100%;
+    float: left;
+
+}
+#footer_top_left_box{
+    width: 30%;
+    height:50%;
+
+    margin-left: 50%;
+    margin-top:50px;
+    float: left;
+    background-color: #F5F5F5;
+}
+
+#footer_top_left_img{
+    width: 30%;
+    height: 100%;
+    float: left;
+
+}
+
+#footer_top_left_content{
+    width: 30%;
+    height: 50%;
+    float: left;
+    margin-top: 15px;
+    margin-left: 10%;
+    text-decoration: none;
+
+
+}
+#footer_top_left_content ul{
+    width: 80%;
+    height: 100%;
+    text-decoration: none;
+    margin-left: 20%;
+
+}
+#footer_top_left_content ul li{
+    font-family:微软雅黑;
+    font-size: 20px;
+    text-decoration: none;
+}
+#footer_top_left_content a:link{
+    text-decoration: none;
+    color: black;
+}
+#footer_top_left_content a:visited{
+    text-decoration: none;
+    color: black;
+
+}
+#footer_top_left_content a:hover{
+    text-decoration: none;
+    color: #209E85;
+
+}
+#footer_top_left_content a:active{
+    text-decoration: none;
+    color: #209E85;
+}
+#footer_top_right_content a:link{
+    text-decoration: none;
+    color: black;
+}
+#footer_top_right_content a:visited{
+    text-decoration: none;
+    color: black;
+
+}
+#footer_top_right_content a:hover{
+    text-decoration: none;
+    color: #209E85;
+
+}
+#footer_top_right_content a:active{
+    text-decoration: none;
+    color: #209E85;
+}
+
+#footer_top_right{
+    width: 50%;
+    height: 100%;
+    float: left;
+
+}
+#footer_top_right_box{
+    width:30%;
+    height: 50%;
+
+    margin-left: 20%;
+    margin-top:50px;
+    background-color: #F5F5F5;
+}
+#footer_top_right_img{
+    width: 30%;
+    height: 100%;
+    float: left;
+}
+#footer_top_right_content{
+    width: 30%;
+    height: 50%;
+    float: left;
+    margin-top: 15px;
+    margin-left: 10%;
+    text-decoration: none;
+
+}
+#footer_top_right_content ul{
+    width: 80%;
+    height: 100%;
+    text-decoration: none;
+    margin-left: 20%;
+
+}
+#footer_top_right_content ul li{
+    font-family:微软雅黑;
+    font-size: 20px;
+    text-decoration: none;
+}

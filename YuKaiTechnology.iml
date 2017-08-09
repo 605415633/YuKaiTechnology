@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/WebRoot/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/WebRoot" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/WebRoot/WEB-INF/classess" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="bootstrap" level="application" />
+    <orderEntry type="library" exported="" name="lib" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/dol.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/hk2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jts.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/gmbal.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/guava.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/backup.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/ha-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/kernel.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/pfl-tf.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/web-ha.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/asm-all.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/cdi-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/hk2-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/logging.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/pfl-asm.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/stats77.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/web-cli.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/web-sse.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/amx-core.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/hk2-core.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/javax.el.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jettison.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/launcher.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/mimepull.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/security.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/ssl-impl.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/war-util.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/web-core.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/web-glue.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/admin-cli.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/glassfish.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/hk2-utils.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/javassist.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/pfl-basic.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/tyrus-spi.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/admin-core.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/admin-util.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/amx-javaee.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/config-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/ejb-client.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/hk2-config.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/javax.json.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/javax.mail.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jdbc-admin.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jersey-mvc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/pkg-client.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/tyrus-core.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/web-naming.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/class-model.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/cluster-ssh.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/common-util.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/gms-adapter.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/hk2-locator.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/javax.faces.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jdbc-config.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jsonp-jaxrs.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/orb-enabler.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/pfl-dynamic.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/rest-client.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/security-ee.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/shoal-cache.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/websecurity.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/api-exporter.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/config-types.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/dataprovider.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/hk2-runlevel.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/internal-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jackson-core.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/javax.inject.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jdbc-runtime.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jersey-cdi1x.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jersey-guava.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/osgi-adapter.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/pfl-tf-tools.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/rest-service.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/tyrus-client.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/tyrus-server.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/cluster-admin.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/ejb-container.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/glassfish-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/gms-bootstrap.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/ha-file-store.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/javaee-kernel.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/javax.ejb-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jboss-logging.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jersey-client.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jersey-common.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jersey-gf-ejb.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jersey-server.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jpa-container.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jsf-connector.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jsftemplating.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/orb-connector.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/shoal-gms-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/web-embed-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/bean-validator.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/cluster-common.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/console-common.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jersey-mvc-jsp.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jstl-connector.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/management-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/osgi-container.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/shoal-gms-impl.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/javax.ws.rs-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/monitoring-core.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/osgi-cli-remote.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/pfl-basic-tools.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/work-management.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/cdi-api-fragment.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/connectors-admin.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/container-common.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/deployment-admin.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/ejb-internal-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/gf-ejb-connector.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/gf-jpa-connector.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/gf-web-connector.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/glassfish-ee-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/glassfish-naming.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jackson-databind.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/javamail-runtime.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jersey-media-sse.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/registration-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/weld-integration.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/weld-osgi-bundle.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/deployment-client.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/deployment-common.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/gf-weld-connector.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/javax.persistence.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/javax.servlet-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/javax.servlet.jsp.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jersey-media-jaxb.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jersey-media-moxy.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/ldapbp-repackaged.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/nucleus-resources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/registration-impl.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/resources-runtime.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/security-services.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/asm-all-repackaged.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/bean-validator-cdi.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/connectors-runtime.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/console-jca-plugin.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/console-jts-plugin.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/console-web-plugin.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jackson-jaxrs-base.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/javamail-connector.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/javax.resource-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/osgi-jpa-extension.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/persistence-common.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/console-jdbc-plugin.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jackson-annotations.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/javax.websocket-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/libpam4j-repackaged.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/load-balancer-admin.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/nucleus-grizzly-all.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/resources-connector.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/annotation-framework.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/flashlight-framework.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/ha-shoal-cache-store.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/j-interop-repackaged.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jersey-cdi1x-servlet.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jersey-mvc-connector.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jspcaching-connector.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/simple-glassfish-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/deployment-autodeploy.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/gf-admingui-connector.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/glassfish-mbeanserver.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/javax.interceptor-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/javax.servlet.jsp-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/javax.transaction-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/osgi-resource-locator.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/scattered-archive-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/web-gui-plugin-common.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/aopalliance-repackaged.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/console-cluster-plugin.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/console-plugin-service.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/deployment-javaee-core.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/gf-restadmin-connector.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/glassfish-corba-omgapi.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/glassfish-registration.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/inmemory.jacc.provider.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/javax.servlet.jsp.jstl.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jersey-bean-validation.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jersey-media-multipart.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/connectors-internal-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/console-ejb-lite-plugin.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/gf-connectors-connector.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/javax.security.jacc-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jersey-entity-filtering.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/schema2beans-repackaged.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/trilead-ssh2-repackaged.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/tyrus-container-servlet.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/ha-shoal-cache-bootstrap.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jersey-cdi1x-transaction.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jersey-container-servlet.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/transaction-internal-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jaspic.provider.framework.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/javax.management.j2ee-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jersey-media-json-jackson.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/weld-integration-fragment.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/gf-load-balancer-connector.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/javax.servlet.jsp.jstl-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jersey-media-json-jettison.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/console-updatecenter-plugin.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/glassfish-grizzly-extra-all.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jackson-jaxrs-json-provider.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/javax.enterprise.deploy-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/org.eclipse.persistence.asm.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/org.eclipse.persistence.jpa.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/glassfish-corba-internal-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/glassfish-extra-jre-packages.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jersey-media-json-processing.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/org.eclipse.persistence.core.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/org.eclipse.persistence.dbws.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/org.eclipse.persistence.moxy.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/flashlight-extra-jdk-packages.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jersey-container-servlet-core.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jmxremote_optional-repackaged.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/org.eclipse.persistence.antlr.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/tyrus-container-glassfish-cdi.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/tyrus-container-glassfish-ejb.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/jersey-container-grizzly2-http.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/org.eclipse.persistence.oracle.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/tyrus-container-grizzly-client.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/javax.security.auth.message-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/mysql-connector-java-5.1.42-bin.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/org.eclipse.persistence.jpa.jpql.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/console-community-branding-plugin.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/org.apache.felix.bundlerepository.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/glassfish-oracle-jdbc-driver-packages.jar!/" />
+          <root url="jar://$MODULE_DIR$/../bookStore/WebRoot/WEB-INF/lib/org.eclipse.persistence.jpa.modelgen.processor.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

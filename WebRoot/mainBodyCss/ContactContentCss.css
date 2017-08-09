@@ -1,0 +1,21 @@
+#teamWork{
+    width: 100%;
+    height: 500px;
+    float: left;
+}
+#teamWorkContent{
+    width: 60%;
+    height: 500px;
+    margin-left: 20%;
+    background-image: url("../commonalityPageImage/messageBoard.jpg");
+}
+#teamWorkContentBlack{
+    width: 10%;
+    height: 90px;
+}
+#messageBoard{
+    width: 40%;
+    height: 300px;
+    margin-left: 35%;
+    background-color: #209E85;
+}
